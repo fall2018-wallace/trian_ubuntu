@@ -36,8 +36,11 @@
         },
         {
             "name": "plot1.png"
+        },
+        {
+            "name": "plot2.png"
         }
     ],
-    "updated_at": "2018-11-08 17:16:05",
+    "updated_at": "2018-11-08 17:18:14",
     "url": "https://github.com/fall2018-wallace/trian_ubuntu"
 }
