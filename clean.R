@@ -48,7 +48,7 @@ plot1 <- ggplot(df,aes(Airline.Status,fill=Satisfaction))+ geom_bar(position='fi
 plot1
 
 plot2 <- ggplot(df,aes(Airline.Status,fill=Satisfaction))+ 
-geom_bar(position='fill')
+geom_bar(position="fill")
 #NOTE - in R studio the graph is coloured properly based on Satisfaction
 plot2
 
