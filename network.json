@@ -23,8 +23,11 @@
             "assigned_to": "djmaniya",
             "name": "clean.R",
             "task_status": "in progress"
+        },
+        {
+            "name": "plot1.png"
         }
     ],
-    "updated_at": "2018-11-08 17:15:47",
+    "updated_at": "2018-11-08 17:15:58",
     "url": "https://github.com/fall2018-wallace/trian_ubuntu"
 }
