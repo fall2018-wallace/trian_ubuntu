@@ -23,6 +23,16 @@
             ],
             "source": "clean.R",
             "target": "plot1.png"
+        },
+        {
+            "ports": [
+                {
+                    "output": "plot2",
+                    "type": "png"
+                }
+            ],
+            "source": "clean.R",
+            "target": "plot2.png"
         }
     ],
     "nodes": [
@@ -41,6 +51,6 @@
             "name": "plot2.png"
         }
     ],
-    "updated_at": "2018-11-08 17:18:14",
+    "updated_at": "2018-11-08 17:18:25",
     "url": "https://github.com/fall2018-wallace/trian_ubuntu"
 }
